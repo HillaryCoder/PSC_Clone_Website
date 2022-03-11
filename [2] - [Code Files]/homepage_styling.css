@@ -1,0 +1,46 @@
+/* NAVBAR STYLING */
+
+/* Navbar Container */
+.navbar-container
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+/* Navbar PSC Logo */
+.navbar-logo img
+{
+    width: 50px;
+    height: 50px;
+}
+
+/* Navbar Links Section */
+.navbar ul
+{
+    display: flex;
+    align-items: center;
+}
+
+.navbar li
+{
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+.navbar-nav-left
+{
+    flex: 1;
+    margin-left: 20px;
+}
+
+/* Navigation buttons coloring */
+.navbar ul li #nav-button
+{
+    background-color: #e39825;
+}
+
+/* PSC LOGO AND GOVERNMENT LOGO STYLING */
+
