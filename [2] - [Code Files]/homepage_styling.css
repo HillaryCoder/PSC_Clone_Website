@@ -44,3 +44,18 @@
 
 /* PSC LOGO AND GOVERNMENT LOGO STYLING */
 
+/* FOOTER STYLING */
+.footer
+{
+    background-color: #e39825;
+}
+
+.footer-container
+{
+    width: 100%;
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0 30px 30px;
+    text-align: center;
+}
+
